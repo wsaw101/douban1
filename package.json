@@ -1,0 +1,20 @@
+{
+  "name": "dist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wsaw101/douban1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wsaw101/douban1/issues"
+  },
+  "homepage": "https://github.com/wsaw101/douban1#readme",
+  "description": "��#\u0000 \u0000d\u0000o\u0000u\u0000b\u0000a\u0000n\u00001\u0000\r\u0000 \u0000"
+}
